@@ -4,7 +4,7 @@ using UnityEditor;
 
 public class CustomWindow : EditorWindow
 {
-    [MenuItem("Vesper/Screenshot Tool")]
+    [MenuItem("Boresso Studio/Custom Window")]
     public static void ShowWindow()
     {
         EditorWindow.GetWindow(typeof(CustomWindow), false);
