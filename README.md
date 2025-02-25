@@ -9,3 +9,5 @@ A very simple example of how to add custom icons to your custom windows!
 1) Add the editor script to your project.
 2) Swap the icon for your own and edit the path
 3) Reference the Util when Showing the Custom Window (See the Example 'Custom Window')
+
+Set up so easy to reference the same icon across many different custom windows if they are all project-specific.
